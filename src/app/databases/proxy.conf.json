@@ -1,0 +1,11 @@
+{
+    "/oil/*": {
+        "target": "https://oil-be.gosumania.it/",
+        "secure": false,
+        "logLevel": "debug",
+        "changeOrigin": true,
+        "pathRewrite": {
+            "^/oil": ""
+        }
+    }
+}
