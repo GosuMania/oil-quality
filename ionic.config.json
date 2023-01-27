@@ -1,0 +1,7 @@
+{
+  "name": "oilQuality",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
